@@ -1,11 +1,11 @@
 {
-  "database": "",
+  "database": "postgres://vnkftvwiejcaqh:c732c56d4c142873ff0ed57b4d4f4c829d44ab268f213484cfc256b1390fd5de@ec2-52-209-171-51.eu-west-1.compute.amazonaws.com:5432/dcdc0atgt2glg0",
   "secret": "",
   "captureKey": "",
   "host": "0.0.0.0",
   "port": 80,
-  "apiDomain": "",
-  "clientDomain": "",
+  "apiDomain": "https://teziclub-server.herokuapp.com/",
+  "clientDomain": "https://tezi-client.herokuapp.com/",
   "contactEmail": "",
   "aws": {
     "senderEmailAddress": "",
